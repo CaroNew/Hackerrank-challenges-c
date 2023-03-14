@@ -18,6 +18,8 @@ Hello, World!
 Life is beautiful
 */
 
+/*Solucion*/
+
 int main() 
 {
 	
